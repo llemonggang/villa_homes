@@ -64,7 +64,7 @@ a:active {
 }
 
 footer {
-  font-size: 24px;
+  font-size: 22px;
   color: white;
   background-color: black;
   position: fixed;
@@ -78,4 +78,23 @@ footer {
 
 footer span {
   padding: 30px;
+}
+
+.bodies {
+  margin: 0 auto;
+  padding: 30px;
+  font-size: 24px;
+}
+
+.bodies h3 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#services-body {
+  font-size: 18px;
+}
+
+#services-body h3 {
+  text-align: left;
 }
